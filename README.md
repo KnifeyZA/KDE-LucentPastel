@@ -13,6 +13,7 @@ This theme also plays with different accent colours as I have not hardcoded a sv
 To install this theme you simply need to set the following settings in your KDE Appearance settings: 
 
 .1  Colors - Here you need to select 'Lucent Pastel' which you placed in Home/.local/share/color-schemes
+
 .2  Plasma Style - Select Lucent Pastel as the plasma style. This needs to be placed in Home/.local/share/plasma/desktoptheme
 
 All other items such as application style and window styles are based off Breeze Dark and are unmodified.
