@@ -8,6 +8,8 @@ This theme is largely based of KDE's default Breeze Dark. Honestly KDE's default
 The wallpaper can be found here:
 https://pixabay.com/illustrations/ai-generated-leaves-foliage-pattern-8519946/
 
+This theme also plays with different accent colours as I have not hardcoded a svg for plasma items. So please set your Accent colour to #cd7a8a or use your own to spice things up.
+
 To install this theme you simply need to set the following settings in your KDE Appearance settings: 
 
 .1  Colors - Here you need to select 'Lucent Pastel' which you placed in Home/.local/share/color-schemes
@@ -21,4 +23,8 @@ The Plasma style has a transparency effect set to it, unfortunately KDE's colour
 
 Remember to set your Login Screen(SDDM) to use the provided wallpaper so you have a more cohesive look!
 
-Enjoy and if you ever use it please give some credit! 
+Disclaimer - This theme is not 100% completed, if you find any troubles with it please feel free to contribute or else let me know and I will try to make a fix for you.
+
+Enjoy and if you ever use it please give some credit. 
+
+![Screenshot3](https://github.com/KnifeyZA/KDE-LucentPastel/assets/169835102/a903d758-82ab-45b7-9a1f-ba51c0636db7)
