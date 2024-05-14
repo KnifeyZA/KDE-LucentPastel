@@ -1,0 +1,5 @@
+This folder and all its contents need to be placed in the following directory: 
+
+Home/.local/share/plasma. 
+
+If you already have a folder called desktoptheme then just place the 'Lucent Pastel' folder in there and set it as a plasma theme in KDE settings! 
